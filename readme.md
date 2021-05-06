@@ -66,8 +66,8 @@ ls
 
 Si es la primera vez que usamos git deberemos configurar credenciales para hacer commits y pushear
 ```
-git config --global user.name "John Doe"
-git config --global user.email johndoe@example.com
+git config --global user.name "Nombre-apellido"
+git config --global user.email email@ejemplo.com
 ```
 
 Cuando empecemos a trabajr debemos iniciar git en nuestra carpeta del **proyecto** y **no** en la de **proyectos**
